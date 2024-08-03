@@ -11,6 +11,15 @@
 ![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/1.png) 
 
 
+2) Найдите файл с переменными (group_vars), в котором задаётся найденное в первом пункте значение, и поменяйте его на all default fact.
+
+### Выполнения задания 2
+
+ ```yml
+---
+  some_fact: "all default fact"
+```
+![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/2.png) 
 
 
 
