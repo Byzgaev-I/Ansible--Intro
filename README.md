@@ -108,9 +108,31 @@ el:examp.yml
 
 ![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/9.png)
 
+### Задания 10
+В prod.yml добавьте новую группу хостов с именем local, в ней разместите localhost с необходимым типом подключения.
 
+Выполнение задания 10
 
-
+prod.yml
+ ```yml
+---
+  el:
+    hosts:
+      centos7:
+        ansible_connection: docker
+  deb:
+    hosts:
+      ubuntu:
+        ansible_connection: docker
+  local:
+    hosts:
+      localhost:
+        ansible_connection: local
+  fedora:
+    hosts:
+      fedora:
+        ansible_connection: docker
+```
 
 
 
