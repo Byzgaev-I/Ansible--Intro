@@ -85,7 +85,12 @@ el:examp.yml
 
 ![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/6.png)
 
+### Задания 7
+При помощи ansible-vault зашифруйте факты в group_vars/deb и group_vars/el с паролем netology.
 
+Выполнение задания 7
+
+![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/7.png) 
 
 
 
