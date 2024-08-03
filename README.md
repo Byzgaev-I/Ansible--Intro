@@ -27,7 +27,7 @@
 Воспользуйтесь подготовленным (используется docker) или создайте собственное окружение для проведения дальнейших испытаний.
 
 Выполнение задания 3  
-docker-compose.yml
+[docker-compose.yml](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/playbook/docker-compose.yml)
  ```yml
 version: '3'
 services:
