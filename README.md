@@ -134,9 +134,11 @@ prod.yml
         ansible_connection: docker
 ```
 
+### Задания 11
+Запустите playbook на окружении prod.yml. При запуске ansible должен запросить у вас пароль. Убедитесь, что факты some_fact для каждого из хостов определены из верных group_vars.
 
-
-
+Выполнение задания 11
+[![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/11.png)
 
 
 
