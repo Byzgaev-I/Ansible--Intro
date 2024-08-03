@@ -42,12 +42,6 @@ services:
     container_name: ubuntu
     restart: unless-stopped
     entrypoint: "sleep infinity"
-
-  fedora:
-    image: pycontribs/fedora
-    container_name: fedora
-    restart: unless-stopped
-    entrypoint: "sleep infinity"
 ```
 
 ![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/3.png) 
