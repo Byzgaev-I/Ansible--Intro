@@ -138,7 +138,14 @@ prod.yml
 Запустите playbook на окружении prod.yml. При запуске ansible должен запросить у вас пароль. Убедитесь, что факты some_fact для каждого из хостов определены из верных group_vars.
 
 Выполнение задания 11
-[![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/11.png)
+![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/11.png)
+
+
+### Необязательная часть
+При помощи ansible-vault расшифруйте все зашифрованные файлы с переменными.
+
+Выполнение задания
+![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/Необяз%20-1.png)
 
 
 
