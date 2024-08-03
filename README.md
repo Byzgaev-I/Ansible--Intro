@@ -93,7 +93,20 @@ el:examp.yml
 ![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/7.png) 
 
 
+### Задания 8
+Запустите playbook на окружении prod.yml. При запуске ansible должен запросить у вас пароль. Убедитесь в работоспособности.
 
+Выполнение задания 8
+
+![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/9.png)
+
+
+### Задания 9
+Посмотрите при помощи ansible-doc список плагинов для подключения. Выберите подходящий для работы на control node.
+
+Выполнение задания 9
+
+![image.jpg](https://github.com/Byzgaev-I/Ansible-Intro/blob/main/9.png)
 
 
 
