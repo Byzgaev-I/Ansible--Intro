@@ -122,10 +122,6 @@ prod.yml
     hosts:
       localhost:
         ansible_connection: local
-  fedora:
-    hosts:
-      fedora:
-        ansible_connection: docker
 ```
 
 ### Задания 11
